@@ -3,8 +3,9 @@ Analysis on US Housing Prices
 
 
 **DATA SOURCE**
-[American House Prices (kaggle.com)](https://www.kaggle.com/datasets/jeremylarcher/american-house-prices-and-demographics-of-top-cities) 
-https://data.nasdaq.com/databases/OPEC - Time Series Analysis
+1. [American House Prices (kaggle.com)](https://www.kaggle.com/datasets/jeremylarcher/american-house-prices-and-demographics-of-top-cities) 
+
+2. https://data.nasdaq.com/databases/OPEC - Time Series Analysis
 
 The dataset comprises of various variables around housing and demographics for the top 50 American cities by population.
 
