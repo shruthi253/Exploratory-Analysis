@@ -1,4 +1,4 @@
-# Exploratory-Analysis
+# Data Analytics-Exploratory-Analysis
 Analysis on US Housing Prices
 
 
